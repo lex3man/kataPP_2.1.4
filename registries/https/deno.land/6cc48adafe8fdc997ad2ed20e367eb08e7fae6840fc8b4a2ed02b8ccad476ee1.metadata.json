@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "date": "Fri, 10 Feb 2023 06:38:16 GMT",
+    "server": "deno/gcp-europe-north1",
+    "vary": "Accept-Encoding",
+    "via": "http/2 edgeproxy-h",
+    "cache-control": "max-age=86400",
+    "content-type": "application/vnd.deno.reg.v2+json",
+    "content-length": "1618"
+  },
+  "url": "https://deno.land/.well-known/deno-import-intellisense.json",
+  "now": {
+    "secs_since_epoch": 1676011097,
+    "nanos_since_epoch": 246275000
+  }
+}
